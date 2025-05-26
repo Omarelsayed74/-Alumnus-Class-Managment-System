@@ -1,4 +1,4 @@
-# -Alumnus-Class-Managment-System
+# Alumnus Class Managment System
 
 #  Objective
  In the realm of education, the process of teaching and learning can often be complex
